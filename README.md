@@ -1,5 +1,3 @@
 # LS_fork_example
 
-이름 :
-SANGDONKIM
-DONDONKIM
+jaewon park
